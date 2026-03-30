@@ -4,7 +4,7 @@ import { FiArrowRight } from 'react-icons/fi';
 import { FiLinkedin, FiSend } from 'react-icons/fi';
 import avatarImg from '../assets/avatar-small.png'; // Use your .png from figma
 import LinkdIn from '../assets/linkdIn.png';
-import Mail from '../assets/email.png';
+import Mail from '../assets/email4.png';
 
 const Footer = () => {
     return (
