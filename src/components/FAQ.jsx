@@ -39,8 +39,8 @@ const FAQ = () => {
                     <p className="faq-contact-text">
                         If you have any other questions, you can contact me by email
                     </p>
-                    <a href="mailto:youremail@gmail.com" className="faq-email">
-                        Fatemah.patel@orientsoftsolutions.com
+                    <a href="mailto:fatemahpatel649@gmail.com" className="faq-email">
+                        fatemahpatel649@gmail.com
                     </a>
                 </div>
 

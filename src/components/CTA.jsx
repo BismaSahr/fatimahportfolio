@@ -23,7 +23,7 @@ const CTA = () => {
                             </div>
 
                             <div className="nav-cta">
-                                <a href="#contact" className="btn btn-contact">
+                                <a href="mailto:fatemahpatel649@gmail.com" className="btn btn-contact">
                                     Contact <FiArrowRight strokeWidth={3} />
                                 </a>
                             </div>

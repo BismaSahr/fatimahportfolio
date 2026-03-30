@@ -11,8 +11,8 @@ const BottomBar = () => {
 
                 <div className="bottom-right">
                     <span className="question-text">Got a question?</span>
-                    <a href="mailto:Fatemah.patel@orientsoftsolutions.com" className="email-link">
-                        Fatemah.patel@orientsoftsolutions.com
+                    <a href="mailto:fatemahpatel649@gmail.com" className="email-link">
+                        fatemahpatel649@gmail.com
                     </a>
                 </div>
             </div>

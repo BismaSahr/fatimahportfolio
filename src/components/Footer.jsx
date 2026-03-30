@@ -23,7 +23,7 @@ const Footer = () => {
                             <span>My Linkedin</span>
                             <img src={LinkdIn} alt="" style={{ width: "40px" }} />
                         </a>
-                        <a href="mailto:Fatemah.patel@orientsoftsolutions.com" className="btn-social">
+                        <a href="mailto:fatemahpatel649@gmail.com" className="btn-social">
                             <span>My Email</span>
                             <img src={Mail} alt="" style={{ width: "40px" }} />
                         </a>
@@ -41,10 +41,9 @@ const Footer = () => {
                             <h3 className="footer-cta-title">Try me out, risk free!</h3>
                             <p className="footer-cta-subtitle">Let's build something great together</p>
                         </div>
-                        <button className="footer-cta-btn">
+                        <a href="mailto:fatemahpatel649@gmail.com" className="footer-cta-btn" style={{ textDecoration: 'none' }}>
                             Contact <FiArrowRight strokeWidth={3} />
-
-                        </button>
+                        </a>
                     </div>
                 </div>
 

@@ -24,17 +24,17 @@ const Navbar = () => {
           <li><a href="#contact">Contact</a></li>
           {/* Button inside menu for mobile view */}
           <li className="mobile-btn">
-            <button className="contact-btn">
+            <a href="mailto:fatemahpatel649@gmail.com" className="contact-btn" style={{ textDecoration: 'none' }}>
               Contact <FiArrowRight strokeWidth={3} />
-            </button>
+            </a>
           </li>
         </ul>
 
         {/* Right Side Button (Desktop) */}
         <div className="nav-actions">
-          <button className="contact-btn desktop-only">
+          <a href="mailto:fatemahpatel649@gmail.com" className="contact-btn desktop-only" style={{ textDecoration: 'none' }}>
             Contact <FiArrowRight strokeWidth={3} />
-          </button>
+          </a>
 
           {/* Mobile Toggle Icon */}
           <div className="menu-icon" onClick={() => setIsOpen(!isOpen)}>
