@@ -188,7 +188,7 @@
 }
 
 .framer-badge .badge-core svg {
-  font-size: 54px;
+  font-size: 44px;
 }
 
 /* --- Right Content Area --- */
@@ -326,10 +326,10 @@
   background: #D9DFF2;
   /* This creates the smooth arc on the top-right and left sides */
   border-radius: 100% 100% 0 0;
-  
+
   /* Matches your rotation */
   transform: rotate(15.18deg);
-  
+
   /* Ensure it doesn't overflow if needed */
   overflow: hidden;
 }
