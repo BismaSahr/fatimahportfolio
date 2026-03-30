@@ -4,6 +4,7 @@ import { FiArrowRight } from 'react-icons/fi';
 import { FiLinkedin, FiSend } from 'react-icons/fi';
 import avatarImg from '../assets/avatar-small.png'; // Use your .png from figma
 import LinkdIn from '../assets/linkdIn.png';
+import Mail from '../assets/email.png';
 
 const Footer = () => {
     return (
@@ -17,10 +18,14 @@ const Footer = () => {
                         <h2 className="footer-headline">Let's build it together.</h2>
                     </div>
 
-                    <div className="btn-linkedin-div footer-buttons">
-                        <a href="https://linkedin.com" target="_blank" rel="noreferrer" className="btn-linkedin">
+                    <div className="footer-buttons">
+                        <a href="https://www.linkedin.com/in/fatemah-patel-5753643bb/" target="_blank" rel="noreferrer" className="btn-social">
                             <span>My Linkedin</span>
                             <img src={LinkdIn} alt="" style={{ width: "40px" }} />
+                        </a>
+                        <a href="mailto:Fatemah.patel@orientsoftsolutions.com" className="btn-social">
+                            <span>My Email</span>
+                            <img src={Mail} alt="" style={{ width: "40px" }} />
                         </a>
                     </div>
                 </div>

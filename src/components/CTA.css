@@ -12,6 +12,7 @@
     align-items: center;
     padding: 0 80px;
     z-index: 2;
+
 }
 
 /* Updated Vector Container Styling */
@@ -42,6 +43,7 @@
 .cta-section {
     padding: 120px 0;
     overflow: hidden;
+    margin-bottom: 0px;
 }
 
 .cta-stack-wrapper {

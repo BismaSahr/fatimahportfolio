@@ -6,7 +6,7 @@ const BottomBar = () => {
         <div className="bottom-bar-wrapper">
             <div className="bottom-bar-container">
                 <div className="bottom-left">
-                    <p className="made-by">Made with ❤️️ by me.</p>
+                    <p className="made-by">Made with ❤️️ by Orientsoft Solutions.</p>
                 </div>
 
                 <div className="bottom-right">
