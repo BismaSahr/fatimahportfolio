@@ -67,7 +67,7 @@ const Testimonials = () => {
     };
 
     return (
-        <section className="testimonial-section">
+        <section className="testimonial-section" id="reviews">
             {/* Background Decorative Patterns - Left Side */}
             <div className="bg-pattern left-pattern">
                 <div className="ellipse-purple"></div>

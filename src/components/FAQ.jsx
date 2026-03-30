@@ -29,7 +29,7 @@ const FAQ = () => {
     };
 
     return (
-        <section className="faq-section">
+        <section className="faq-section" id="faq">
             <div className="container faq-container">
                 {/* Left Side: Header Text */}
                 <div className="faq-header">

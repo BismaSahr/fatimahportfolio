@@ -143,7 +143,7 @@ import './Specialize.css';
 
 const Specialize = () => {
   return (
-    <section className="specialize-section">
+    <section className="specialize-section" id="about">
       <div className="vertical-dashed-divider"></div>
       <div className="custom-container">
         <div className="specialize-wrapper">

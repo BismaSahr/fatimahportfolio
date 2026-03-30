@@ -7,7 +7,7 @@ import LinkdIn from '../assets/linkdIn.png';
 
 const Footer = () => {
     return (
-        <footer className="footer-section">
+        <footer className="footer-section" id="contact">
             <div className="container footer-container">
 
                 {/* Left Info Block */}
