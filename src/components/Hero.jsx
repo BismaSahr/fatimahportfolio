@@ -89,8 +89,8 @@ const Hero = () => {
 
             <div className="social-icon-row">
               <a href="https://linkedin.com" target="_blank" rel="noreferrer" className="icon-box"><FaLinkedinIn /></a>
-              <a href="https://behance.net" target="_blank" rel="noreferrer" className="icon-box"><FaBehance /></a>
-              <a href="https://upwork.com" target="_blank" rel="noreferrer" className="icon-box"><SiUpwork /></a>
+              <a href="https://www.behance.net/fatemahpatel" target="_blank" rel="noreferrer" className="icon-box"><FaBehance /></a>
+              <a href="https://www.upwork.com/freelancers/~011ded17e8934c19b3?referrer_url_path=%2Fnx%2Fsearch%2Ftalent%2Fdetails%2F~011ded17e8934c19b3%2Fprofile" target="_blank" rel="noreferrer" className="icon-box"><SiUpwork /></a>
             </div>
           </div>
           <div className="vertical-dashed-divider"></div>
