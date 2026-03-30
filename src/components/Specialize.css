@@ -188,7 +188,7 @@
 }
 
 .framer-badge .badge-core svg {
-  font-size: 44px;
+  font-size: 54px;
 }
 
 /* --- Right Content Area --- */
@@ -509,7 +509,7 @@
 
   .specialize-cards-stack {
     width: 100%;
-    gap: 24px;
+    gap: 34px;
     margin: 0 auto;
     max-width: 700px;
   }
@@ -580,6 +580,12 @@
   }
 }
 
+@media (min-width: 621px) and (max-width: 767px) {}
+
+.specialize-cards-stack {
+  gap: 36px;
+}
+
 @media (max-width: 620px) {
   .orbit-scene {
     width: min(460px, 92vw);
@@ -617,6 +623,10 @@
     font-size: 14px;
     line-height: 22px;
   }
+
+  .framer-badge .badge-core svg {
+    font-size: 40px;
+  }
 }
 
 @media (max-width: 380px) {
@@ -633,5 +643,9 @@
   .specialize-title {
     font-size: 28px;
     line-height: 34px;
+  }
+
+  .framer-badge .badge-core svg {
+    font-size: 36px;
   }
 }
